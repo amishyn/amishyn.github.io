@@ -1,64 +1,67 @@
-[
-    {
-        "items": [
-            {
-                "name": "december1",
-                "url": "assets/IMG_2138.png"
-            },
-            {
-                "name": "december",
-                "url": "assets/IMG_2139.png"
-            },
-            {
-                "name": "december,weekday",
-                "url": "assets/IMG_2140.png"
-            },
-            {
-                "name": "december,good morning",
-                "url": "assets/IMG_2141.png"
-            },
-            {
-                "name": "december,hello",
-                "url": "assets/IMG_2142.png"
-            },
-            {
-                "name": "december",
-                "url": "assets/IMG_2143.png"
-            },
-            {
-                "name": "december,2024",
-                "url": "assets/IMG_2144.png"
-            },
-            {
-                "name": "december,2024",
-                "url": "assets/IMG_2145.png"
-            },
-            {
-                "name": "december,2024",
-                "url": "assets/IMG_2146.png"
-            },
-            {
-                "name": "december,00:00",
-                "url": "assets/IMG_2147.png"
-            },
-            {
-                "name": "december,reels",
-                "url": "assets/IMG_2148.png"
-            },
-            {
-                "name": "december,hello",
-                "url": "assets/IMG_2149.png"
-            },
-            {
-                "name": "december,frame",
-                "url": "assets/IMG_2150.png"
-            },
-            {
-                "name": "december,calendar",
-                "url": "assets/IMG_2151.png"
-            }
-        ],
-        "name": "starter",
-        "host": "https://amishyn.github.io/"
-    }
-]
+{
+    "sticker_collections": [
+        {
+            "items": [
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2138.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2139.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2140.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2141.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2142.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2143.png"
+                },
+                {
+                    "name": "december,2024",
+                    "url": "assets/assets/IMG_2144.png"
+                },
+                {
+                    "name": "december,2024",
+                    "url": "assets/assets/IMG_2145.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2146.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2147.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2148.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2149.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2150.png"
+                },
+                {
+                    "name": "december",
+                    "url": "assets/assets/IMG_2151.png"
+                }
+            ],
+            "name": "starter",
+            "host": "https://amishyn.github.io/"
+        }
+    ],
+    "version": 1
+}
