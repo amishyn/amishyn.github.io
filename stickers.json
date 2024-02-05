@@ -591,6 +591,36 @@
             ],
             "name": "Bedroom-Icons",
             "host": "https://amishyn.github.io/"
+        },
+        {
+            "items": [
+                {
+                    "name": "arrow",
+                    "url": "assets/arrow_straight_dark_grey.gif"
+                },
+                {
+                    "name": "arrow",
+                    "url": "assets/arrow_straight_grey.gif"
+                },
+                {
+                    "name": "arrow",
+                    "url": "assets/arrow_straight_white.gif"
+                },
+                {
+                    "name": "new_post",
+                    "url": "assets/new_post_dark.gif"
+                },
+                {
+                    "name": "new_post",
+                    "url": "assets/new_post_grey.gif"
+                },
+                {
+                    "name": "new_post",
+                    "url": "assets/new_post_white.gif"
+                }
+            ],
+            "name": "gifs",
+            "host": "https://amishyn.github.io/"
         }
     ]
 }
