@@ -617,6 +617,10 @@
                 {
                     "name": "new_post",
                     "url": "assets/gifs/new_post_white.gif"
+                },
+                {
+                    "name": "dog",
+                    "url": "assets/gifs/dog.gif"
                 }
             ],
             "name": "gifs",
