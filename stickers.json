@@ -596,27 +596,27 @@
             "items": [
                 {
                     "name": "arrow",
-                    "url": "assets/arrow_straight_dark_grey.gif"
+                    "url": "assets/gifs/arrow_straight_dark_grey.gif"
                 },
                 {
                     "name": "arrow",
-                    "url": "assets/arrow_straight_grey.gif"
+                    "url": "assets/gifs/arrow_straight_grey.gif"
                 },
                 {
                     "name": "arrow",
-                    "url": "assets/arrow_straight_white.gif"
+                    "url": "assets/gifs/arrow_straight_white.gif"
                 },
                 {
                     "name": "new_post",
-                    "url": "assets/new_post_dark.gif"
+                    "url": "assets/gifs/new_post_dark.gif"
                 },
                 {
                     "name": "new_post",
-                    "url": "assets/new_post_grey.gif"
+                    "url": "assets/gifs/new_post_grey.gif"
                 },
                 {
                     "name": "new_post",
-                    "url": "assets/new_post_white.gif"
+                    "url": "assets/gifs/new_post_white.gif"
                 }
             ],
             "name": "gifs",
