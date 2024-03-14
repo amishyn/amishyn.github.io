@@ -61,7 +61,7 @@
             ],
             "name": "starter",
             "host": "https://amishyn.github.io/",
-            "imageUrl": "/assets/collections/collection_gif_bg.png"
+            "imageUrl": "/assets/collections/peachy.png"
         },
         {
             "items": [
@@ -274,7 +274,8 @@
                 }
             ],
             "name": "Female Occupation",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": ""
         },
         {
             "items": [
@@ -380,7 +381,8 @@
                 }
             ],
             "name": "Chicken Farm",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": ""
         },
         {
             "items": [
@@ -486,7 +488,8 @@
                 }
             ],
             "name": "Grill Restaurant",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": ""
         },
         {
             "items": [
@@ -598,37 +601,37 @@
         {
             "items": [
                 {
-                    "name": "arrow",
-                    "url": "assets/gifs/arrow_straight_dark_grey.gif"
+                    "name": "",
+                    "url": "assets/gifs/dog.gif"
                 },
                 {
-                    "name": "arrow",
-                    "url": "assets/gifs/arrow_straight_grey.gif"
-                },
-                {
-                    "name": "arrow",
-                    "url": "assets/gifs/arrow_straight_white.gif"
-                },
-                {
-                    "name": "new_post",
-                    "url": "assets/gifs/new_post_dark.gif"
-                },
-                {
-                    "name": "new_post",
-                    "url": "assets/gifs/new_post_grey.gif"
-                },
-                {
-                    "name": "new_post",
+                    "name": "",
                     "url": "assets/gifs/new_post_white.gif"
                 },
                 {
-                    "name": "dog",
-                    "url": "assets/gifs/dog.gif"
+                    "name": "",
+                    "url": "assets/gifs/new_post_grey.gif"
+                },
+                {
+                    "name": "",
+                    "url": "assets/gifs/new_post_dark.gif"
+                },
+                {
+                    "name": "",
+                    "url": "assets/gifs/arrow_straight_white.gif"
+                },
+                {
+                    "name": "",
+                    "url": "assets/gifs/arrow_straight_grey.gif"
+                },
+                {
+                    "name": "",
+                    "url": "assets/gifs/arrow_straight_dark_grey.gif"
                 }
             ],
             "name": "gifs",
             "host": "https://amishyn.github.io/",
-            "imageUrl": "/assets/collections/peachy.png"
+            "imageUrl": "/assets/collections/collection_gif_bg.png"
         }
     ]
 }
