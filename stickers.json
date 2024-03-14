@@ -60,7 +60,8 @@
                 }
             ],
             "name": "starter",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": "/assets/collections/collection_gif_bg.png"
         },
         {
             "items": [
@@ -590,7 +591,8 @@
                 }
             ],
             "name": "Bedroom-Icons",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": "/assets/collections/collection_background_sample.jpg"
         },
         {
             "items": [
@@ -624,7 +626,8 @@
                 }
             ],
             "name": "gifs",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": "/assets/collections/peachy.png"
         }
     ]
 }
