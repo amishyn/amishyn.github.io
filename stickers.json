@@ -167,7 +167,8 @@
                 }
             ],
             "name": "Aircraft",
-            "host": "https://amishyn.github.io/"
+            "host": "https://amishyn.github.io/",
+            "imageUrl": "/assets/collections/aircraft.png"
         },
         {
             "items": [
