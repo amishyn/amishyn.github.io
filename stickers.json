@@ -112,7 +112,7 @@
                 },
                 {
                     "name": "3D, diamond, brilliant, sparkler",
-                    "url": "/Stickers/Cartoon Style 3d collectionyellow_diamond_cartoons_3d.png"
+                    "url": "/Stickers/Cartoon Style 3d collection/yellow_diamond_cartoons_3d.png"
                 },
                 {
                     "name": "3D, diamond, brilliant, sparkler",
@@ -145,7 +145,7 @@
             ],
             "name": "Cartoon Style 3d collection",
             "host": "https://amishyn.github.io/",
-            "imageUrl": ""
+            "imageUrl": "/Cartoon Style 3d collection/pig_cartoon_3d.png"
         }
     ]
 }
